@@ -7,10 +7,10 @@ var str = "Hello, playground"
 
 
 //Declarando a variável salário
-let salario : Float = 8000;
+let salario : Float = 3000;
 
 //Declarando a variável conta
-let contas :  Float = 8000;
+let contas :  Float = 3000;
 
 var carro1 = "Carro1"
 var carro2 = "Carro2"
